@@ -8,7 +8,6 @@ Welcome to the repository for Jung Bak's professional portfolio website. This pr
 - [Features](#features)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [License](#license)
 
 ## Overview
 
