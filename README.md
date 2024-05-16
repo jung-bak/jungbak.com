@@ -35,7 +35,3 @@ This website serves as a professional portfolio for Jung Bak, highlighting key a
 - JavaScript
 - [Google Fonts](https://fonts.google.com/) for custom fonts
 - [http-server](https://www.npmjs.com/package/http-server) for serving the website locally
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
